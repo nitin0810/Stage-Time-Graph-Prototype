@@ -1,0 +1,31 @@
+.chartDiv {
+  border: 1px solid;
+  padding: 10px 0px 10px 10px;
+  width: 960px;
+}
+
+.timeDiv {
+  width: 960px;
+  span {
+    margin: 0px 0px 0px 80px;
+  }
+}
+.main {
+  width: 960px;
+  display: inline-block;
+  border: solid 1px #ccc;
+  overflow: hidden;
+  height: 20px;
+}
+#container {
+  height: 100%;
+  white-space: nowrap;
+  float: right;
+  margin-bottom: 10px;
+}
+
+.inner {
+  display: inline-block;
+  height: 100%;
+  margin: 0;
+}
